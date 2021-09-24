@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import TodoInput from './TodoInput';
 
 const ListTodo = ({ todos, completeTodo }) => {
 
