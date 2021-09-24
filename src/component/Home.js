@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ListTodo from "./ListTodo";
 
 
 function Home() {
